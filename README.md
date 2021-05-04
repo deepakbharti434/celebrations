@@ -1,4 +1,4 @@
-This app allows users to post their celebrations and a lot of features in a post.
+This app allows users to post their celebrations and share it with everyone.
 
 
 HOME SCREEN
